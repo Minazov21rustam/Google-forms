@@ -1,0 +1,17 @@
+/* <=========================================================Header======================================================> */
+
+.header__containerFlexBox {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* <=========================================================Main======================================================> */
+
+.main__autorisationBox{
+  display: flex;
+  justify-content: center;
+}
+
+.main__autorisationBox_flexBox{
+  display: flex;
+}
